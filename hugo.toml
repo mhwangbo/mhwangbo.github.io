@@ -1,0 +1,8 @@
+baseURL = 'https://mhwangbo.github.io/'
+languageCode = 'ko-kr'
+title = 'Red Team Logs'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto'
+  ShowCodeCopyButtons = true
